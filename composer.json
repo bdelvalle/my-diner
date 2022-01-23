@@ -1,0 +1,12 @@
+{
+  "name": "barbara/sdev328/my-diner",
+  "authors": [
+    {
+      "name": "Barbara del Valle",
+      "email": "del-valle.barbara@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core":"dev-master"
+  }
+}
